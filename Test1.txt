@@ -10,4 +10,11 @@ Multiply FUNCTION
 
 
 
+
 ADD FUNCTION
+
+
+
+
+Divide FUNCTION
+
