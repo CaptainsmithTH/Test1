@@ -11,3 +11,7 @@ Multiply FUNCTION
 
 
 DELETE FUNCTION
+
+
+
+Divide FUNCTION
